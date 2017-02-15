@@ -1273,7 +1273,7 @@ p.bold{
 .introServiceBox{
     position:relative;
     z-index:2;
-    background:url('img/IMG1.JPG') no-repeat center center;
+    background:url('img/IMG1.png') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -1285,7 +1285,7 @@ p.bold{
 .introServiceBox1{
     position:relative;
     z-index:2;
-    background:url('img/IMG2.JPG') no-repeat center center;
+    background:url('img/IMG2.png') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -1297,7 +1297,7 @@ p.bold{
 .introServiceBox2{
     position:relative;
     z-index:2;
-    background:url('img/IMG3.JPG') no-repeat center center;
+    background:url('img/IMG3.png') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -1309,7 +1309,7 @@ p.bold{
 .introServiceBox3{
     position:relative;
     z-index:2;
-    background:url('img/IMG4.JPG') no-repeat center center;
+    background:url('img/IMG4.png') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
