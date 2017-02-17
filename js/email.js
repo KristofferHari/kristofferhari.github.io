@@ -4,7 +4,7 @@
 
 $('#contactform').on('submit', function (e) {
     $.ajax({
-        url: "//formspree.io/kristofferhari@gmail.com",
+        url: "../contact.php",
         method: "post",
         data: $(this).serialize(),
         dataType: "json"
