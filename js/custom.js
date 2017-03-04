@@ -285,7 +285,7 @@ $(document).ready(function () {
         $('.timer1').countTo({
 
             from: 0, // the number you want to start
-            to: 2997, // the number you want to reach
+            to: 2780, // the number you want to reach
             speed: 4000,
             refreshInterval: 100
 
@@ -295,7 +295,7 @@ $(document).ready(function () {
         $('.timer2').countTo({
 
             from: 0,// the number you want to start
-            to: 5,// the number you want to reach
+            to: 6,// the number you want to reach
             speed: 2500,
             refreshInterval: 50
 
@@ -316,7 +316,7 @@ $(document).ready(function () {
         $('.timer4').countTo({
 
             from: 0,// the number you want to start
-            to: 109,// the number you want to reach
+            to: 112,// the number you want to reach
             speed: 4000,
             refreshInterval: 10,
 
